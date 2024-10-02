@@ -20,22 +20,55 @@
       "title": "画江湖之天罡",
       "cover": "banner/2.webp",
       "artists": [],
-      "productId": "P00030",
+      "productId": "P00087",
       "releaseDate": "2023-05",
       "type": "国产电影",
       "price": 24.99,
       "country": "中国"
     },
     {
+      "id": 3,
+      "title": "黑暗荣耀",
+      "cover": "banner/3.webp",
+      "artists": [],
+      "productId": "P000125",
+      "releaseDate": "2021-09",
+      "type": "海外剧",
+      "price": 29.99,
+      "country": "韩国"
+    },
+    {
       "id": 4,
       "title": "沧元图",
       "cover": "banner/4.webp",
       "artists": [],
-      "productId": "P00090",
+      "productId": "P000161",
       "releaseDate": "2021-09",
       "type": "国漫",
       "price": 29.99,
       "country": "中国"
+    },
+    {
+      "id": 5,
+      "title": "生化危机",
+      "cover": "banner/5.webp",
+      "artists": [],
+      "productId": "P00052",
+      "releaseDate": "2021-09",
+      "type": "海外电影",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 6,
+      "title": "鬼灭之刃",
+      "cover": "banner/6.webp",
+      "artists": [],
+      "productId": "P000206",
+      "releaseDate": "2021-09",
+      "type": "日漫",
+      "price": 29.99,
+      "country": "日本"
     }
   ],
   "msg": "success"
