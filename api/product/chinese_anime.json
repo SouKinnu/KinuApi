@@ -1,0 +1,306 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "result": [
+    {
+      "id": 1,
+      "title": "沧元图",
+      "cover": "product/chinese_anime/1.webp",
+      "artists": [],
+      "productId": "P000161",
+      "type": "国漫",
+      "price": 19.99,
+      "country": "中国"
+    },
+    {
+      "id": 2,
+      "title": "大主宰年番",
+      "cover": "product/chinese_anime/2.webp",
+      "artists": [],
+      "productId": "P000162",
+      "type": "国漫",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 3,
+      "title": "斗罗大陆",
+      "cover": "product/chinese_anime/3.webp",
+      "artists": [],
+      "productId": "P000163",
+      "type": "国漫",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 4,
+      "title": "斗罗大陆Ⅱ绝世唐门",
+      "cover": "product/chinese_anime/4.webp",
+      "artists": [],
+      "productId": "P000164",
+      "type": "国漫",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 5,
+      "title": "斗破苍穹年番",
+      "cover": "product/chinese_anime/5.webp",
+      "artists": [],
+      "productId": "P000165",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 6,
+      "title": "恶魔法则",
+      "cover": "product/chinese_anime/6.webp",
+      "artists": [],
+      "productId": "P000166",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 7,
+      "title": "狐妖小红娘",
+      "cover": "product/chinese_anime/7.webp",
+      "artists": [],
+      "productId": "P000167",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 8,
+      "title": "画江湖之杯莫停",
+      "cover": "product/chinese_anime/8.webp",
+      "artists": [],
+      "productId": "P000168",
+      "type": "国漫",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 9,
+      "title": "画江湖之不良人",
+      "cover": "product/chinese_anime/9.webp",
+      "artists": [],
+      "productId": "P000169",
+      "type": "国漫",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 10,
+      "title": "画江湖之灵主",
+      "cover": "product/chinese_anime/10.webp",
+      "artists": [],
+      "productId": "P000170",
+      "type": "国漫",
+      "price": 25.99,
+      "country": "中国"
+    },
+    {
+      "id": 11,
+      "title": "剑来",
+      "cover": "product/chinese_anime/11.webp",
+      "artists": [],
+      "productId": "P000171",
+      "type": "国漫",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 12,
+      "title": "灵笼",
+      "cover": "product/chinese_anime/12.webp",
+      "artists": [],
+      "productId": "P000172",
+      "type": "国漫",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 13,
+      "title": "全职法师",
+      "cover": "product/chinese_anime/13.webp",
+      "artists": [],
+      "productId": "P000173",
+      "type": "国漫",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 14,
+      "title": "神印王座",
+      "cover": "product/chinese_anime/14.webp",
+      "artists": [],
+      "productId": "P000174",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 15,
+      "title": "尸兄",
+      "cover": "product/chinese_anime/15.webp",
+      "artists": [],
+      "productId": "P000175",
+      "type": "国漫",
+      "price": 25.99,
+      "country": "中国"
+    },
+    {
+      "id": 16,
+      "title": "吞噬星空",
+      "cover": "product/chinese_anime/16.webp",
+      "artists": [],
+      "productId": "P000176",
+      "type": "国漫",
+      "price": 27.99,
+      "country": "中国"
+    },
+    {
+      "id": 17,
+      "title": "完美世界",
+      "cover": "product/chinese_anime/17.webp",
+      "artists": [],
+      "productId": "P000177",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 18,
+      "title": "武庚纪",
+      "cover": "product/chinese_anime/18.webp",
+      "artists": [],
+      "productId": "P000178",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 19,
+      "title": "西行记",
+      "cover": "product/chinese_anime/19.webp",
+      "artists": [],
+      "productId": "P000179",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 20,
+      "title": "仙逆",
+      "cover": "product/chinese_anime/20.webp",
+      "artists": [],
+      "productId": "P000180",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 21,
+      "title": "雄兵连",
+      "cover": "product/chinese_anime/21.webp",
+      "artists": [],
+      "productId": "P000181",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 22,
+      "title": "修罗武神",
+      "cover": "product/chinese_anime/22.webp",
+      "artists": [],
+      "productId": "P000182",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 23,
+      "title": "妖怪名单",
+      "cover": "product/chinese_anime/23.webp",
+      "artists": [],
+      "productId": "P000183",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 24,
+      "title": "妖神记",
+      "cover": "product/chinese_anime/24.webp",
+      "artists": [],
+      "productId": "P000184",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 25,
+      "title": "一人之下",
+      "cover": "product/chinese_anime/25.webp",
+      "artists": [],
+      "productId": "P000185",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 26,
+      "title": "元尊",
+      "cover": "product/chinese_anime/26.webp",
+      "artists": [],
+      "productId": "P000186",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 27,
+      "title": "斩神之凡尘神域",
+      "cover": "product/chinese_anime/27.webp",
+      "artists": [],
+      "productId": "P000187",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 28,
+      "title": "遮天",
+      "cover": "product/chinese_anime/28.webp",
+      "artists": [],
+      "productId": "P000188",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 29,
+      "title": "中国惊奇先生",
+      "cover": "product/chinese_anime/29.webp",
+      "artists": [],
+      "productId": "P000189",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 30,
+      "title": "诛仙",
+      "cover": "product/chinese_anime/30.webp",
+      "artists": [],
+      "productId": "P000190",
+      "type": "国漫",
+      "price": 22.99,
+      "country": "中国"
+    }
+  ]
+}

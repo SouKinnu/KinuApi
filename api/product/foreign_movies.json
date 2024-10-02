@@ -1,0 +1,279 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "result": [
+    {
+      "id": 1,
+      "title": "阿甘正传",
+      "cover": "product/foreign_movie/1.webp",
+      "artists": [
+        "汤姆·汉克斯",
+        "罗宾·怀特"
+      ],
+      "productId": "P00041",
+      "type": "海外电影",
+      "price": 19.99,
+      "country": "美国"
+    },
+    {
+      "id": 2,
+      "title": "爱与灵药",
+      "cover": "product/foreign_movie/2.webp",
+      "artists": [
+        "安妮·海瑟薇",
+        "杰克·吉伦哈尔"
+      ],
+      "productId": "P00042",
+      "type": "海外电影",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 3,
+      "title": "蝙蝠侠：黑暗骑士",
+      "cover": "product/foreign_movie/3.webp",
+      "artists": [
+        "克里斯蒂安·贝尔",
+        "希斯·莱杰"
+      ],
+      "productId": "P00043",
+      "type": "海外电影",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 4,
+      "title": "蝙蝠侠：黑暗骑士崛起",
+      "cover": "product/foreign_movie/4.webp",
+      "artists": [
+        "克里斯蒂安·贝尔",
+        "迈克尔·凯恩"
+      ],
+      "productId": "P00044",
+      "type": "海外电影",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 5,
+      "title": "蝙蝠侠：侠影之谜",
+      "cover": "product/foreign_movie/5.webp",
+      "artists": [
+        "克里斯蒂安·贝尔",
+        "连姆·尼森"
+      ],
+      "productId": "P00045",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 6,
+      "title": "楚门的世界",
+      "cover": "product/foreign_movie/6.webp",
+      "artists": [
+        "金·凯瑞",
+        "劳拉·琳妮"
+      ],
+      "productId": "P00046",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 7,
+      "title": "黑夜传说",
+      "cover": "product/foreign_movie/7.webp",
+      "artists": [
+        "凯特·贝金赛尔",
+        "斯科特·斯比德曼"
+      ],
+      "productId": "P00047",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 8,
+      "title": "黑夜传说2：进化",
+      "cover": "product/foreign_movie/8.webp",
+      "artists": [
+        "凯特·贝金赛尔",
+        "斯科特·斯比德曼"
+      ],
+      "productId": "P00048",
+      "type": "海外电影",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 9,
+      "title": "黑夜传说3：狼族崛起",
+      "cover": "product/foreign_movie/9.webp",
+      "artists": [
+        "麦克·辛",
+        "罗娜·迈特拉"
+      ],
+      "productId": "P00049",
+      "type": "海外电影",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 10,
+      "title": "黑夜传说4：觉醒",
+      "cover": "product/foreign_movie/10.webp",
+      "artists": [
+        "凯特·贝金赛尔",
+        "西奥·詹姆斯"
+      ],
+      "productId": "P00050",
+      "type": "海外电影",
+      "price": 25.99,
+      "country": "美国"
+    },
+    {
+      "id": 11,
+      "title": "黑夜传说5：血战",
+      "cover": "product/foreign_movie/11.webp",
+      "artists": [
+        "凯特·贝金赛尔",
+        "查尔斯·丹斯"
+      ],
+      "productId": "P00051",
+      "type": "海外电影",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 12,
+      "title": "生化危机",
+      "cover": "product/foreign_movie/12.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "米歇尔·罗德里格兹"
+      ],
+      "productId": "P00052",
+      "type": "海外电影",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 13,
+      "title": "生化危机2：启示录",
+      "cover": "product/foreign_movie/13.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "西耶娜·盖尔利"
+      ],
+      "productId": "P00053",
+      "type": "海外电影",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 14,
+      "title": "生化危机3：灭绝",
+      "cover": "product/foreign_movie/14.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "奥德·菲尔"
+      ],
+      "productId": "P00054",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 15,
+      "title": "生化危机4：战神再生",
+      "cover": "product/foreign_movie/15.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "艾丽·拉特"
+      ],
+      "productId": "P00055",
+      "type": "海外电影",
+      "price": 25.99,
+      "country": "美国"
+    },
+    {
+      "id": 16,
+      "title": "生化危机5：惩罚",
+      "cover": "product/foreign_movie/16.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "李冰冰"
+      ],
+      "productId": "P00056",
+      "type": "海外电影",
+      "price": 27.99,
+      "country": "中国"
+    },
+    {
+      "id": 17,
+      "title": "生化危机6：终章",
+      "cover": "product/foreign_movie/17.webp",
+      "artists": [
+        "米拉·乔沃维奇",
+        "伊恩·格雷"
+      ],
+      "productId": "P00057",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 18,
+      "title": "我唾弃你的坟墓",
+      "cover": "product/foreign_movie/18.webp",
+      "artists": [
+        "莎拉·巴特勒",
+        "杰夫·布兰森"
+      ],
+      "productId": "P00058",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 19,
+      "title": "我唾弃你的坟墓2",
+      "cover": "product/foreign_movie/19.webp",
+      "artists": [
+        "杰玛·达兰德",
+        "乔·阿布索隆"
+      ],
+      "productId": "P00059",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 20,
+      "title": "我唾弃你的坟墓3：复仇在我",
+      "cover": "product/foreign_movie/20.webp",
+      "artists": [
+        "莎拉·巴特勒",
+        "道格·麦克昂"
+      ],
+      "productId": "P00060",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 21,
+      "title": "西西里的美丽传说",
+      "cover": "product/foreign_movie/21.webp",
+      "artists": [
+        "莫妮卡·贝鲁奇",
+        "圭塞佩·苏尔法罗"
+      ],
+      "productId": "P00061",
+      "type": "海外电影",
+      "price": 22.99,
+      "country": "意大利"
+    }
+  ]
+}

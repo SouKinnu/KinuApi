@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "result": [
+    {
+      "id": 1,
+      "title": "边水往事",
+      "cover": "banner/1.webp",
+      "artists": [
+        "郭麒麟",
+        "吴镇宇"
+      ],
+      "productId": "P00020",
+      "releaseDate": "2021-09-28",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 2,
+      "title": "画江湖之天罡",
+      "cover": "banner/2.webp",
+      "artists": [],
+      "productId": "P00030",
+      "releaseDate": "2023-05",
+      "type": "国产电影",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 4,
+      "title": "沧元图",
+      "cover": "banner/4.webp",
+      "artists": [],
+      "productId": "P00090",
+      "releaseDate": "2021-09",
+      "type": "国漫",
+      "price": 29.99,
+      "country": "中国"
+    }
+  ],
+  "msg": "success"
+}

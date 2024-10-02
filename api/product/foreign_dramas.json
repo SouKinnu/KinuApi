@@ -1,0 +1,286 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "result": [
+    {
+      "id": 1,
+      "title": "3年A班",
+      "cover": "product/foreign_drama/1.webp",
+      "artists": [
+        "田中圭",
+        "桥本环奈"
+      ],
+      "productId": "P000121",
+      "type": "海外剧",
+      "price": 19.99,
+      "country": "日本"
+    },
+    {
+      "id": 2,
+      "title": "毒枭",
+      "cover": "product/foreign_drama/2.webp",
+      "artists": [
+        "阿尔贝托·阿曼",
+        "范·德尔·哈特"
+      ],
+      "productId": "P000122",
+      "type": "海外剧",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 3,
+      "title": "非自然死亡",
+      "cover": "product/foreign_drama/3.webp",
+      "artists": [
+        "川口春奈",
+        "山崎贤人"
+      ],
+      "productId": "P000123",
+      "type": "海外剧",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 4,
+      "title": "哥谭",
+      "cover": "product/foreign_drama/4.webp",
+      "artists": [
+        "本·麦肯锡",
+        "唐娜·穆尔"
+      ],
+      "productId": "P000124",
+      "type": "海外剧",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 5,
+      "title": "黑暗荣耀",
+      "cover": "product/foreign_drama/5.webp",
+      "artists": [
+        "宋慧乔",
+        "李妍熙"
+      ],
+      "productId": "P000125",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "韩国"
+    },
+    {
+      "id": 6,
+      "title": "禁忌女孩",
+      "cover": "product/foreign_drama/6.webp",
+      "artists": [
+        "林允",
+        "陈飞宇"
+      ],
+      "productId": "P000126",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 7,
+      "title": "京城怪物",
+      "cover": "product/foreign_drama/7.webp",
+      "artists": [
+        "陈坤"
+      ],
+      "productId": "P000127",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "韩国"
+    },
+    {
+      "id": 8,
+      "title": "绝命毒师",
+      "cover": "product/foreign_drama/8.webp",
+      "artists": [
+        "布莱恩·克兰斯顿",
+        "亚伦·保尔"
+      ],
+      "productId": "P000128",
+      "type": "海外剧",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 9,
+      "title": "狂赌之渊",
+      "cover": "product/foreign_drama/9.webp",
+      "artists": [
+        "滨边美波",
+        "福本莉子"
+      ],
+      "productId": "P000129",
+      "type": "海外剧",
+      "price": 24.99,
+      "country": "日本"
+    },
+    {
+      "id": 10,
+      "title": "了不起的麦瑟尔夫人",
+      "cover": "product/foreign_drama/10.webp",
+      "artists": [
+        "瑞秋·布罗斯纳汉",
+        "托尼·哈丁"
+      ],
+      "productId": "P000130",
+      "type": "海外剧",
+      "price": 25.99,
+      "country": "美国"
+    },
+    {
+      "id": 11,
+      "title": "弥留之国的爱丽丝",
+      "cover": "product/foreign_drama/11.webp",
+      "artists": [
+        "山崎贤人",
+        "奈绪"
+      ],
+      "productId": "P000131",
+      "type": "海外剧",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 12,
+      "title": "女超人",
+      "cover": "product/foreign_drama/12.webp",
+      "artists": [
+        "梅莉莎·贝诺伊斯",
+        "台特·哈维"
+      ],
+      "productId": "P000132",
+      "type": "海外剧",
+      "price": 29.99,
+      "country": "美国"
+    },
+    {
+      "id": 13,
+      "title": "破产姐妹",
+      "cover": "product/foreign_drama/13.webp",
+      "artists": [
+        "凯特·哈德森",
+        "贝瑟妮·门德尔"
+      ],
+      "productId": "P000133",
+      "type": "海外剧",
+      "price": 24.99,
+      "country": "美国"
+    },
+    {
+      "id": 14,
+      "title": "权力的游戏",
+      "cover": "product/foreign_drama/14.webp",
+      "artists": [
+        "艾米莉亚·克拉克",
+        "基特·哈灵顿"
+      ],
+      "productId": "P000134",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 15,
+      "title": "蛇蝎美人",
+      "cover": "product/foreign_drama/15.webp",
+      "artists": [
+        "多米妮克·麦艾丽戈特"
+      ],
+      "productId": "P000135",
+      "type": "海外剧",
+      "price": 25.99,
+      "country": "美国"
+    },
+    {
+      "id": 16,
+      "title": "神探夏洛克",
+      "cover": "product/foreign_drama/16.webp",
+      "artists": [
+        "本尼迪克特·康伯巴奇",
+        "马丁·弗瑞曼"
+      ],
+      "productId": "P000136",
+      "type": "海外剧",
+      "price": 27.99,
+      "country": "英国"
+    },
+    {
+      "id": 17,
+      "title": "斯巴达克斯",
+      "cover": "product/foreign_drama/17.webp",
+      "artists": [],
+      "productId": "P000137",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 18,
+      "title": "泰坦",
+      "cover": "product/foreign_drama/18.webp",
+      "artists": [
+        "布雷克·阿普顿",
+        "亚历克斯·威尔金森"
+      ],
+      "productId": "P000138",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 19,
+      "title": "西部世界",
+      "cover": "product/foreign_drama/19.webp",
+      "artists": [
+        "埃文·蕾切尔·伍德",
+        "杰弗里·怀特"
+      ],
+      "productId": "P000139",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "美国"
+    },
+    {
+      "id": 20,
+      "title": "以吾之名",
+      "cover": "product/foreign_drama/20.webp",
+      "artists": [
+        "理查德·麦登",
+        "霍利·阿尔德"
+      ],
+      "productId": "P000140",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "韩国"
+    },
+    {
+      "id": 21,
+      "title": "鱿鱼游戏",
+      "cover": "product/foreign_drama/21.webp",
+      "artists": [
+        "李政宰",
+        "朴海苏"
+      ],
+      "productId": "P000141",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "韩国"
+    },
+    {
+      "id": 22,
+      "title": "纸钞屋",
+      "cover": "product/foreign_drama/22.webp",
+      "artists": [
+        "乌尔斯拉·科尔贝"
+      ],
+      "productId": "P000142",
+      "type": "海外剧",
+      "price": 22.99,
+      "country": "西班牙"
+    }
+  ]
+}

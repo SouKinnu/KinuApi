@@ -1,0 +1,306 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "result": [
+    {
+      "id": 1,
+      "title": "出包女王",
+      "cover": "product/japanese_anime/1.webp",
+      "artists": [],
+      "productId": "P000201",
+      "type": "日漫",
+      "price": 19.99,
+      "country": "日本"
+    },
+    {
+      "id": 2,
+      "title": "刀剑神域",
+      "cover": "product/japanese_anime/2.webp",
+      "artists": [],
+      "productId": "P000202",
+      "type": "日漫",
+      "price": 24.99,
+      "country": "日本"
+    },
+    {
+      "id": 3,
+      "title": "东京食尸鬼",
+      "cover": "product/japanese_anime/3.webp",
+      "artists": [],
+      "productId": "P000203",
+      "type": "日漫",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 4,
+      "title": "哆啦A梦",
+      "cover": "product/japanese_anime/4.webp",
+      "artists": [],
+      "productId": "P000204",
+      "type": "日漫",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 5,
+      "title": "恶魔高校",
+      "cover": "product/japanese_anime/5.webp",
+      "artists": [],
+      "productId": "P000205",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 6,
+      "title": "鬼灭之刃",
+      "cover": "product/japanese_anime/6.webp",
+      "artists": [],
+      "productId": "P000206",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 7,
+      "title": "海贼王",
+      "cover": "product/japanese_anime/7.webp",
+      "artists": [],
+      "productId": "P000207",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 8,
+      "title": "火影忍者",
+      "cover": "product/japanese_anime/8.webp",
+      "artists": [],
+      "productId": "P000208",
+      "type": "日漫",
+      "price": 24.99,
+      "country": "日本"
+    },
+    {
+      "id": 9,
+      "title": "火影忍者：博人传之次世代继承者",
+      "cover": "product/japanese_anime/9.webp",
+      "artists": [],
+      "productId": "P000209",
+      "type": "日漫",
+      "price": 24.99,
+      "country": "日本"
+    },
+    {
+      "id": 10,
+      "title": "鹡鸰女神",
+      "cover": "product/japanese_anime/10.webp",
+      "artists": [],
+      "productId": "P000210",
+      "type": "日漫",
+      "price": 25.99,
+      "country": "日本"
+    },
+    {
+      "id": 11,
+      "title": "进击的巨人",
+      "cover": "product/japanese_anime/11.webp",
+      "artists": [],
+      "productId": "P000211",
+      "type": "日漫",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 12,
+      "title": "狂赌之渊",
+      "cover": "product/japanese_anime/12.webp",
+      "artists": [],
+      "productId": "P000212",
+      "type": "日漫",
+      "price": 29.99,
+      "country": "日本"
+    },
+    {
+      "id": 13,
+      "title": "浪客剑心",
+      "cover": "product/japanese_anime/13.webp",
+      "artists": [],
+      "productId": "P000213",
+      "type": "日漫",
+      "price": 24.99,
+      "country": "日本"
+    },
+    {
+      "id": 14,
+      "title": "恋姬无双",
+      "cover": "product/japanese_anime/14.webp",
+      "artists": [],
+      "productId": "P000214",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 15,
+      "title": "零之使魔",
+      "cover": "product/japanese_anime/15.webp",
+      "artists": [],
+      "productId": "P000215",
+      "type": "日漫",
+      "price": 25.99,
+      "country": "日本"
+    },
+    {
+      "id": 16,
+      "title": "名侦探柯南",
+      "cover": "product/japanese_anime/16.webp",
+      "artists": [],
+      "productId": "P000216",
+      "type": "日漫",
+      "price": 27.99,
+      "country": "日本"
+    },
+    {
+      "id": 17,
+      "title": "女王之刃",
+      "cover": "product/japanese_anime/17.webp",
+      "artists": [],
+      "productId": "P000217",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 18,
+      "title": "七龙珠",
+      "cover": "product/japanese_anime/18.webp",
+      "artists": [],
+      "productId": "P000218",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 19,
+      "title": "犬夜叉",
+      "cover": "product/japanese_anime/19.webp",
+      "artists": [],
+      "productId": "P000219",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 20,
+      "title": "双星之阴阳师",
+      "cover": "product/japanese_anime/20.webp",
+      "artists": [],
+      "productId": "P000220",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 21,
+      "title": "死神",
+      "cover": "product/japanese_anime/21.webp",
+      "artists": [],
+      "productId": "P000221",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 22,
+      "title": "死亡笔记",
+      "cover": "product/japanese_anime/22.webp",
+      "artists": [],
+      "productId": "P000222",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 23,
+      "title": "新妹魔王的契约者",
+      "cover": "product/japanese_anime/23.webp",
+      "artists": [],
+      "productId": "P000223",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 24,
+      "title": "学园默示录",
+      "cover": "product/japanese_anime/24.webp",
+      "artists": [],
+      "productId": "P000224",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 25,
+      "title": "妖精的尾巴",
+      "cover": "product/japanese_anime/25.webp",
+      "artists": [],
+      "productId": "P000225",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 26,
+      "title": "一骑当千",
+      "cover": "product/japanese_anime/26.webp",
+      "artists": [],
+      "productId": "P000226",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 27,
+      "title": "一拳超人",
+      "cover": "product/japanese_anime/27.webp",
+      "artists": [],
+      "productId": "P000227",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 28,
+      "title": "缘之空",
+      "cover": "product/japanese_anime/28.webp",
+      "artists": [],
+      "productId": "P000228",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 29,
+      "title": "约会大作战",
+      "cover": "product/japanese_anime/29.webp",
+      "artists": [],
+      "productId": "P000229",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    },
+    {
+      "id": 30,
+      "title": "斩赤红之瞳",
+      "cover": "product/japanese_anime/30.webp",
+      "artists": [],
+      "productId": "P000230",
+      "type": "日漫",
+      "price": 22.99,
+      "country": "日本"
+    }
+  ]
+}

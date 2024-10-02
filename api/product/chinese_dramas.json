@@ -1,0 +1,228 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "result": [
+    {
+      "id": 1,
+      "title": "爱情公寓",
+      "cover": "product/chinese_drama/1.webp",
+      "artists": [
+        "陈赫",
+        "娄艺潇",
+        "孙艺洲"
+      ],
+      "productId": "P00001",
+      "type": "国剧",
+      "price": 19.99,
+      "country": "中国"
+    },
+    {
+      "id": 2,
+      "title": "疯人院",
+      "cover": "product/chinese_drama/2.webp",
+      "artists": [
+        "刘畅",
+        "梅婷"
+      ],
+      "productId": "P00002",
+      "type": "国剧",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 3,
+      "title": "开端",
+      "cover": "product/chinese_drama/3.webp",
+      "artists": [
+        "赵今麦",
+        "白敬亭"
+      ],
+      "productId": "P00003",
+      "type": "国剧",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 4,
+      "title": "狂飙",
+      "cover": "product/chinese_drama/4.webp",
+      "artists": [
+        "张译",
+        "张颂文"
+      ],
+      "productId": "P00004",
+      "type": "国剧",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 5,
+      "title": "猎罪图鉴",
+      "cover": "product/chinese_drama/5.webp",
+      "artists": [
+        "金世佳",
+        "檀健次"
+      ],
+      "productId": "P00005",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 6,
+      "title": "漫长的季节",
+      "cover": "product/chinese_drama/6.webp",
+      "artists": [
+        "范伟",
+        "秦昊"
+      ],
+      "productId": "P00006",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 7,
+      "title": "庆余年",
+      "cover": "product/chinese_drama/7.webp",
+      "artists": [
+        "张若昀",
+        "陈道明"
+      ],
+      "productId": "P00007",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 8,
+      "title": "庆余年 第二季",
+      "cover": "product/chinese_drama/8.webp",
+      "artists": [
+        "张若昀",
+        "陈道明"
+      ],
+      "productId": "P00008",
+      "type": "国剧",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 9,
+      "title": "唐朝诡事录",
+      "cover": "product/chinese_drama/9.webp",
+      "artists": [
+        "杨志刚",
+        "杨旭文"
+      ],
+      "productId": "P00009",
+      "type": "国剧",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 10,
+      "title": "唐朝诡事录 西行",
+      "cover": "product/chinese_drama/10.webp",
+      "artists": [
+        "杨志刚",
+        "杨旭文"
+      ],
+      "productId": "P00010",
+      "type": "国剧",
+      "price": 25.99,
+      "country": "中国"
+    },
+    {
+      "id": 11,
+      "title": "仙剑奇侠传",
+      "cover": "product/chinese_drama/11.webp",
+      "artists": [
+        "胡歌",
+        "刘亦菲"
+      ],
+      "productId": "P00011",
+      "type": "国剧",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 12,
+      "title": "仙剑奇侠传三",
+      "cover": "product/chinese_drama/12.webp",
+      "artists": [
+        "胡歌",
+        "杨幂"
+      ],
+      "productId": "P00012",
+      "type": "国剧",
+      "price": 29.99,
+      "country": "中国"
+    },
+    {
+      "id": 13,
+      "title": "轩辕剑之天之痕",
+      "cover": "product/chinese_drama/13.webp",
+      "artists": [
+        "胡歌",
+        "刘诗诗"
+      ],
+      "productId": "P00013",
+      "type": "国剧",
+      "price": 24.99,
+      "country": "中国"
+    },
+    {
+      "id": 14,
+      "title": "雪中悍刀行",
+      "cover": "product/chinese_drama/14.webp",
+      "artists": [
+        "张若昀",
+        "胡军"
+      ],
+      "productId": "P00014",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    },
+    {
+      "id": 15,
+      "title": "终极笔记",
+      "cover": "product/chinese_drama/15.webp",
+      "artists": [
+        "曾舜晞",
+        "刘宇宁"
+      ],
+      "productId": "P00015",
+      "type": "国剧",
+      "price": 25.99,
+      "country": "中国"
+    },
+    {
+      "id": 16,
+      "title": "重启之极海听雷",
+      "cover": "product/chinese_drama/16.webp",
+      "artists": [
+        "朱一龙",
+        "毛晓彤"
+      ],
+      "productId": "P00016",
+      "type": "国剧",
+      "price": 27.99,
+      "country": "中国"
+    },
+    {
+      "id": 17,
+      "title": "赘婿",
+      "cover": "product/chinese_drama/17.webp",
+      "artists": [
+        "郭麒麟",
+        "宋轶"
+      ],
+      "productId": "P00017",
+      "type": "国剧",
+      "price": 22.99,
+      "country": "中国"
+    }
+  ]
+}
